@@ -1,0 +1,145 @@
+@font-face {
+    font-family: "Varela Round";
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/VarelaRound-Regular.ttf') format('truetype');
+}
+
+:root {
+    --primary-color: #c1c7d2;
+    --accent-color: #ffb300;
+    --bg-color: #333845;
+    --bg-grey: #697286;
+    --error: #fc3d3d;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: "Varela Round", sans-serif;
+}
+
+
+body {
+    min-width: 380px;
+    min-height: 100vh;
+    margin: 0;
+    color: var(--primary-color);
+    background-color: var(--bg-color);
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.visually-hidden {
+    position: absolute;
+    bottom: 0;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1024px;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+body[class],
+h1[class],
+h2[class],
+h3[class],
+h4[class],
+p[class],
+ul[class],
+ol[class],
+li[class],
+figure[class],
+figcaption[class],
+blockquote[class],
+dl[class],
+dd[class] {
+    margin: 0;
+}
+
+ul[class],
+ol[class] {
+    list-style: none;
+    padding: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1024px;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.button {
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 14px;
+    padding: 6px 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--accent-color);
+}
+
+.button:hover,
+.button:focus {
+    opacity: 0.8;
+}
+
+.button:active {
+    opacity: 0.5;
+}
+
+.button[disabled],
+.button[disabled]:hover,
+.button[disabled]:active {
+    cursor: not-allowed;
+    opacity: 1;
+    background-color: #444;
+}
+
+.link {
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: var(--accent-color);
+}
+
+.link:hover,
+.link:focus {
+    opacity: 0.8;
+}
+
+.link:active {
+    opacity: 0.5;
+}
+
+.app_header {
+    text-align: center;
+}
