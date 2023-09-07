@@ -1,0 +1,915 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 443,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6Sm5DwAAQBAJ",
+      "etag": "niimlztylQI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6Sm5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Becoming. Моя история",
+        "authors": [
+          "Мишель Обама"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2019-10-25",
+        "description": "Искренние и вдохновляющие мемуары бывшей первой леди США.Мишель Обама делится сокровенными моментами своего брака – когда она пыталась балансировать между работой и личной жизнью, а также стремительно развивающейся политической карьерой мужа. Мы становимся свидетелями приватных бесед супругов, идем плечом к плечу с автором по великолепным залам Белого дома и сопровождаем Мишель Обаму в поездках по всей стране.«Перед первой леди Америка предстает без прикрас. Я бывала на аукционах в частных домах, больше похожих на музеи, где стояли ванны из драгоценных камней. Видела семьи, которые потеряли все в урагане Катрина и были до слез благодарны получить в дар хотя бы работающие холодильник и плиту. Я встречала лицемеров и лгунов. Но также встречала и учителей, жен военнослужащих и многих других людей, настолько сильных духом, что я с трудом верила своим глазам».Рассказывая свою историю честно и смело, автор заставляет каждого из нас задуматься: кто я и какова моя история?В формате a4.pdf сохранен издательский макет книги.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041927813"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041927812"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 638,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.20.22.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6Sm5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6Sm5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=6Sm5DwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6Sm5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6Sm5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 623.75,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 561.38,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6Sm5DwAAQBAJ&rdid=book-6Sm5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 623750000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 561380000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Becoming_%D0%9C%D0%BE%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-sample-epub.acsm?id=6Sm5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Becoming_%D0%9C%D0%BE%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-sample-pdf.acsm?id=6Sm5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6Sm5DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Искренние и вдохновляющие мемуары бывшей первой леди США.Мишель Обама делится сокровенными моментами своего брака – когда она ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-ll2DgAAQBAJ",
+      "etag": "Df3DSur5JLI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-ll2DgAAQBAJ",
+      "volumeInfo": {
+        "title": "Книга радости",
+        "subtitle": "Как быть счастливым в меняющемся мире",
+        "authors": [
+          "Далай-лама, Десмонд Туту и Дуглас Абрамс"
+        ],
+        "publisher": "\"Манн, Иванов и Фербер\"",
+        "description": "В апреле 2015 года два самых радостных человека на свете — лауреаты Нобелевской премии Далай-лама и архиепископ Кейптаунский Десмонд Туту — встретились в Дхарамсале, чтобы отметить восьмидесятый день рождения Его Святейшества, оглянуться на прожитые годы, полные непростых испытаний, и отыскать ответ на один из насущных вопросов: как найти в себе силы радоваться жизни, невзирая на неизбежные страдания? Эта книга — редкая возможность стать свидетелем беспрецедентной, удивительной встречи, провести бок о бок с двумя величайшими духовными лидерами современности целую неделю и раскрыть секрет истинной радости.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785001006435"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5001006430"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-ll2DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-ll2DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=-ll2DgAAQBAJ&printsec=frontcover&dq=*&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-ll2DgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-ll2DgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 449,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 404.1,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-ll2DgAAQBAJ&rdid=book--ll2DgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 449000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 404100000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-ll2DgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "В апреле 2015 года два самых радостных человека на свете — лауреаты Нобелевской премии Далай-лама и архиепископ Кейптаунский ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X8tWaXJuhkAC",
+      "etag": "FXPyz6ItOJU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X8tWaXJuhkAC",
+      "volumeInfo": {
+        "title": "Rework. Бизнес без предрассудков",
+        "authors": [
+          "Джейсон Фрайд",
+          "Дэвид Хайнемайер Хенссон"
+        ],
+        "publisher": "Манн, Иванов и Фербер",
+        "publishedDate": "2013-01-01",
+        "description": "Эта книга стала бестселлером в Америке сразу после выхода. И немудрено — она переворачивает устоявшиеся представления о «правильном» ведении бизнеса, на деле зачастую мешающие успеху. Авторы, два успешных предпринимателя, рассказывают, как начать или усовершенствовать ваш имеющийся бизнес, а точнее — ваши взгляды на него, с тем чтобы обрести невиданную ранее степень свободы и получить гораздо большую эффективность. Книга будет весьма полезна как начинающим, так и опытным предпринимателям. Она одновременно вдохновляет, сбивает с толку, выводит из зоны комфорта и дает полезную практическую базу. Вы и не подозревали, что бизнес может быть таким! Книга издательства 'Манн, Иванов и Фербер'",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785916571196"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5916571194"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X8tWaXJuhkAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X8tWaXJuhkAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=X8tWaXJuhkAC&printsec=frontcover&dq=*&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X8tWaXJuhkAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X8tWaXJuhkAC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 449,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 404.1,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=X8tWaXJuhkAC&rdid=book-X8tWaXJuhkAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 449000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 404100000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X8tWaXJuhkAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Эта книга стала бестселлером в Америке сразу после выхода. И немудрено — она переворачивает устоявшиеся представления о ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m97fAAAAMAAJ",
+      "etag": "D84ooNn8pYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m97fAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Guinness book of records",
+        "subtitle": "",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000027539331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Curiosities and wonders"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m97fAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m97fAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=m97fAAAAMAAJ&q=*&dq=*&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=m97fAAAAMAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_book_of_records.html?hl=&id=m97fAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m97fAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kGeYDQAAQBAJ",
+      "etag": "hB8liqEl7V8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kGeYDQAAQBAJ",
+      "volumeInfo": {
+        "title": "SPQR: История Древнего Рима",
+        "authors": [
+          "М.Бирд"
+        ],
+        "publisher": "Альпина Паблишер",
+        "publishedDate": "2016-11-28",
+        "description": "Древний Рим — тема всеобщего интереса, опыты знакомства с его образами и историей сопровождают нас в науках, литературе, искусстве. Но насколько близки к реальности наши представления о той эпохе? Книга Мэри Бирд, одного из ведущих мировых специалистов по древней истории, неизбежно изменит многие из них. Сенат и народ, Цицерон и Катилина, Ганнибал, Цезарь, Клеопатра, Август и Нерон... Описывая взаимоотношения власти и человека, политическое устройство и конфликты, становление государственности и империи, знаменитых и никому не известных римлян, автор обрушивает множество мифов, заставляет по иному взглянуть на многие события давней истории. Здесь есть все лучшее, что читатель может найти в научно-популярной литературе: глубокие и всесторонние знания о предмете, великолепный язык рассказчика, умение передать пульс повседневной жизни. Читая о далеком прошлом, мы сопереживаем ему так, словно читаем блог самого Цицерона, словно играем в кости в помпейском трактире.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785961445169"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "596144516X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 696,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kGeYDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kGeYDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=kGeYDQAAQBAJ&printsec=frontcover&dq=*&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kGeYDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kGeYDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 499,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 499,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kGeYDQAAQBAJ&rdid=book-kGeYDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 499000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 499000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/SPQR_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%A0-sample-epub.acsm?id=kGeYDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/SPQR_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%A0-sample-pdf.acsm?id=kGeYDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kGeYDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Древний Рим — тема всеобщего интереса, опыты знакомства с его образами и историей сопровождают нас в науках, литературе, искусстве ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vy_lCwAAQBAJ",
+      "etag": "cSDp7syFma4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vy_lCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Богатый папа, бедный папа",
+        "subtitle": "Чему учат детей богатые родители - и не учат бедные!",
+        "authors": [
+          "Роберт Кийосаки"
+        ],
+        "publisher": "Digest Media, Попурри",
+        "publishedDate": "2012",
+        "description": "Бестселлер №1 в мире «Богатый папа, бедный папа»! Роберт Кийосаки убежден в том, что современная система школьного образования не дает действительно нужных для жизни знаний – знаний о деньгах. Все это приводит к тому, что мы вынуждены всю жизнь работать за деньги и зарабатывать их для других. И это вместо того, чтобы заставить работать деньги на себя! В центре книги – история самого Кийосаки. Его воспитывали два папы. Один - бедный - государственный служащий, второй - богатый - бизнесмен, ставший одним из самых влиятельных людей на Гавайских островах. Маленький Роберт выбрал путь, предложенный Богатым папой, и добился того, что стал финансово обеспеченным человеком. И теперь он готов делиться секретами своего успеха. А они работают, ведь неслучайно его бестселлер считают обязательным чтением для миллионеров!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789851516595"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9851516597"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vy_lCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vy_lCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=vy_lCwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vy_lCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vy_lCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 379,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 379,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vy_lCwAAQBAJ&rdid=book-vy_lCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 379000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 379000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vy_lCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Бестселлер №1 в мире «Богатый папа, бедный папа»! Роберт Кийосаки убежден в том, что современная система школьного образования не ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QzYREAAAQBAJ",
+      "etag": "P+ajoAyCdiM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QzYREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Разговоры с друзьями",
+        "authors": [
+          "Салли Руни"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2020-12-24",
+        "description": "Студентки дублинского Тринити-колледжа Фрэнсис и Бобби дружат со школы. На одном из университетских поэтических вечеров они знакомятся с Мелиссой, известным фотографом, а позже и с ее мужем Ником, актером. Несмотря на то что Ник и Мелисса значительно старше Бобби и Фрэнсис, между ними завязываются дружеские отношения. Все четверо проводят вместе много времени, по большей части разговаривая – обсуждают искусство, литературу, политику, секс, дружбу и, конечно же, друг друга. У Фрэнсис начинается роман с Ником. В отношениях с Бобби появляется отчужденность...«Разговоры с друзьями» (2017) – первая книга Салли Руни, мгновенно сделавшая 26-летнюю выпускницу Тринити-колледжа всемирно известной писательницей.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785043174208"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "504317420X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QzYREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QzYREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=QzYREAAAQBAJ&printsec=frontcover&dq=*&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QzYREAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QzYREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 373.75,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 336.38,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QzYREAAAQBAJ&rdid=book-QzYREAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 373750000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 336380000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A0%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_%D1%81_%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC%D0%B8-sample-epub.acsm?id=QzYREAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A0%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_%D1%81_%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC%D0%B8-sample-pdf.acsm?id=QzYREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QzYREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Студентки дублинского Тринити-колледжа Фрэнсис и Бобби дружат со школы. На одном из университетских поэтических вечеров они ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GsNfEAAAQBAJ",
+      "etag": "XrcLllAdIag",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GsNfEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Элантрис",
+        "authors": [
+          "Брендон Сандерсон"
+        ],
+        "publisher": "Азбука-Аттикус",
+        "publishedDate": "2022-02-17",
+        "description": "Величественный Элантрис, город богов, средоточие магии, мудрости и несказанной красоты, был подобен серебряному костру, горящему в вечности. Стать элантрийцем и уподобиться богам мог любой человек, которого касался шаод — таинственное преображение, наделяющее избранных волшебной силой. Вечность закончилась десять лет назад. Прекрасный город пал, а благословение шаода обернулось проклятием. Новая столица Арелона, маленький Каи, живет в тени черных стен Элантриса, стараясь не замечать города, ставшего резервацией для тех несчастных, кого по-прежнему забирает шаод. Но очередной жертвой оказывается Раоден, наследный принц Арелона…",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785389207066"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5389207068"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 640,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GsNfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GsNfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=GsNfEAAAQBAJ&printsec=frontcover&dq=*&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GsNfEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GsNfEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 413,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 371.7,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GsNfEAAAQBAJ&rdid=book-GsNfEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 413000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 371700000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%AD%D0%BB%D0%B0%D0%BD%D1%82%D1%80%D0%B8%D1%81-sample-epub.acsm?id=GsNfEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%AD%D0%BB%D0%B0%D0%BD%D1%82%D1%80%D0%B8%D1%81-sample-pdf.acsm?id=GsNfEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GsNfEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Величественный Элантрис, город богов, средоточие магии, мудрости и несказанной красоты, был подобен серебряному костру, горящему в ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Srb6CwAAQBAJ",
+      "etag": "wzMqpKVuQnk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Srb6CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Деньги. Мастер игры",
+        "subtitle": "7 простых шагов к финансовой свободе",
+        "authors": [
+          "Энтони Роббинс"
+        ],
+        "publisher": "Digest Media, Попурри",
+        "publishedDate": "2016-04-15",
+        "description": "Основываясь на обширных исследованиях и личных интервью с более чем 50 легендарными финансистами мира, знаменитый Тони Роббинс разработал простой план из 7 шагов, который любой человек может использовать для достижения материального благосостояния. Даже самые сложные финансовые концепции Тони излагает простым и понятным языком, сопровождая их реальными историями из жизни. Вместе с читателями самого разного уровня достатка он проходит все шаги, ведущие к финансовой свободе, попутно развенчивая мифы, мешающие людям стать богатыми. Эта книга поможет вам научиться мыслить как 50 самых успешных инвесторов мира, избавиться от материальных проблем и добиться финансовой безопасности, создать источники гарантированных доходов, которые не иссякнут, пока вы живы.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789851525764"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9851525766"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 790,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Srb6CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Srb6CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=Srb6CwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Srb6CwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Srb6CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 749,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 749,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Srb6CwAAQBAJ&rdid=book-Srb6CwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 749000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 749000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Srb6CwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Основываясь на обширных исследованиях и личных интервью с более чем 50 легендарными финансистами мира, знаменитый Тони Роббинс ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AwLsCgAAQBAJ",
+      "etag": "zMoaV6162k8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AwLsCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Джек Ричер, или В розыске",
+        "authors": [
+          "Ли Чайлд"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-04-29",
+        "description": "Разобравшись с очередным смертельно опасным делом, Джек Ричер твердо решил добраться до Вирджинии и наконец познакомиться с женщиной, которую так часто слышал по телефону, но никогда не видел. Как обычно, передвигаться по стране он предпочел на попутном транспорте. Ждать пришлось долго – никто не хотел пускать в свой автомобиль огромного громилу подозрительного вида. Наконец какие-то люди – двое мужчин и женщина – согласились подвезти его, причем чуть ли не до места назначения. Но через некоторое время Ричер начал понимать: эти люди вовсе не «какие-то». А очень даже определенные. И машина эта не их – они ее угнали. И планы у этих ребят самые что ни на есть мрачные...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457888449"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457888444"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 494,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AwLsCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AwLsCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=AwLsCgAAQBAJ&printsec=frontcover&dq=*&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=AwLsCgAAQBAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%94%D0%B6%D0%B5%D0%BA_%D0%A0%D0%B8%D1%87%D0%B5%D1%80_%D0%B8%D0%BB%D0%B8_%D0%92_%D1%80%D0%BE%D0%B7%D1%8B%D1%81.html?hl=&id=AwLsCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%B6%D0%B5%D0%BA_%D0%A0%D0%B8%D1%87%D0%B5%D1%80_%D0%B8%D0%BB%D0%B8_%D0%92_%D1%80%D0%BE%D0%B7%D1%8B%D1%81-sample-epub.acsm?id=AwLsCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%B6%D0%B5%D0%BA_%D0%A0%D0%B8%D1%87%D0%B5%D1%80_%D0%B8%D0%BB%D0%B8_%D0%92_%D1%80%D0%BE%D0%B7%D1%8B%D1%81-sample-pdf.acsm?id=AwLsCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AwLsCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Разобравшись с очередным смертельно опасным делом, Джек Ричер твердо решил добраться до Вирджинии и наконец познакомиться с ..."
+      }
+    }
+  ]
+}
