@@ -16,6 +16,7 @@
     --accent-color: #ffb300;
     --bg-color: #333845;
     --bg-grey: #697286;
+    --bg-dark-grey: #272c36;
     --error: #fc3d3d;
 }
 
@@ -127,12 +128,18 @@ img {
     opacity: 0.5;
 }
 
-.search-form {
+.search-form {}
+
+.search-form__row {
     display: flex;
     align-items: center;
     margin-top: 20px;
     margin-bottom: 32px;
     gap: 16px;
+}
+
+.search-form__select {
+    width: 50%;
 }
 
 .search-form__input {
@@ -159,7 +166,7 @@ img {
     overflow: hidden;
     margin-bottom: 16px;
     border-radius: 16px;
-    background-color: #272c36;
+    background-color: var(--bg-dark-grey);
     gap: 16px;
 }
 
@@ -196,4 +203,44 @@ img {
 
 .error__title {
     color: var(--error);
+}
+
+.select__control {
+    background-color: var(--bg-dark-grey);
+}
+
+.select__value-container {
+    padding: 2px 8px;
+}
+
+.select__indicator-separator {
+    background-color: var(--bg-grey);
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+.select__indicator {
+    padding: 8px;
+}
+
+.select__menu {
+    background-color: var(--bg-color);
+    border-radius: 4px;
+    box-shadow: 0 0 0 1px hsla(0, 0%, 0%, 0.1), 0 4px 11px hsla(0, 0%, 0%, 0.1);
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+.select__option {
+    color: inherit;
+    padding: 8px 12px;
+}
+
+.select__option--is-focused {
+    background-color: var(--bg-grey);
+}
+
+.select__option--is-selected {
+    background-color: var(--accent-color);
+    color: var(--bg-dark-grey);
 }
